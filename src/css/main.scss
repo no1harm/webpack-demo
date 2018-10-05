@@ -1,0 +1,15 @@
+$color-white: #fff;
+$color-pink: #ee11ab;
+$title-font: normal 24px/1.5 'Open Sans', sans-serif;
+
+$primary-color: $color-pink;
+
+body {
+  height: 100vh;
+  background-color: $color-pink;
+  color: $color-white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
